@@ -1,0 +1,16 @@
+.services{
+    text-align: center;
+}
+
+.service{
+    display: inline-block;
+    width: 13%;
+}
+
+h2{
+    height: 60px;
+} 
+
+i{
+    color: #f4623a;
+}
